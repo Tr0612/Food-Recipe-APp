@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "757821880425",
+    "project_id": "recipeapp-30574",
+    "storage_bucket": "recipeapp-30574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757821880425:android:d90b37fd8c076487adcaf8",
+        "android_client_info": {
+          "package_name": "com.codingwithme.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757821880425-s4q9fj7okimfp65jc5p91311fuq3gonv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmKmmxF1mmQHj0UH-v4Y28I1sUWIgUfOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757821880425-s4q9fj7okimfp65jc5p91311fuq3gonv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757821880425:android:a6220575694b96adadcaf8",
+        "android_client_info": {
+          "package_name": "com.example.foodappmain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757821880425-s4q9fj7okimfp65jc5p91311fuq3gonv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmKmmxF1mmQHj0UH-v4Y28I1sUWIgUfOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757821880425-s4q9fj7okimfp65jc5p91311fuq3gonv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
